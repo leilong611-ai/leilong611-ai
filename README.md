@@ -1,43 +1,41 @@
 # Hi, I'm leilong611-ai
 
-I build practical OpenClaw workflows for knowledge ops, observability, and daily automation.
+I build practical AI-agent workflows with a strong bias toward maintainability, real usage, and security boundaries.
 
-My background is in operations, process design, and team management rather than traditional software engineering. That is exactly why my projects focus on real workflows, maintainability, and day-to-day usefulness instead of one-off demos.
-
-## What I'm building
-
-- OpenClaw workflows for knowledge management
-- Obsidian sync and multi-device agent setup
-- Skill observability and cost auditing
-- Practical automation patterns for non-traditional builders
-
-## Featured project
-
-- `openclaw-workflow-kit`
-  A practical toolkit for OpenClaw users who want reusable workflows, not just experiments.
+My background is closer to operations, process design, and team management than traditional software engineering. That is exactly why I care about tools that survive real work instead of staying as one-off demos.
 
 ## Current focus
 
-- Better documentation
-- More real use cases
-- Cleaner packaging for public release
-- Long-term maintainability
+- Codex-based maintainer workflows
+- WeChat-to-Codex integration
+- session isolation and safer automation boundaries
+- documentation, release hygiene, and long-term OSS maintainability
+
+## Featured project
+
+- [`weixin-codex-bridge`](https://github.com/leilong611-ai/weixin-codex-bridge)
+  A standalone WeChat-to-Codex bridge with QR login, message forwarding, and per-user session isolation.
+
+## What I care about
+
+- real workflow integration over demo-first projects
+- narrow tools with clear boundaries
+- maintainer automation for review, triage, and release work
+- shipping documentation and safety checks alongside code
 
 ## Why this account exists
 
-I use AI agents in real work. I package the useful parts into tools, workflows, and documentation that other people can actually reuse.
+I use AI agents in real work and turn the useful parts into repositories that other people can inspect, reuse, and maintain.
 
-## Reach me
+## In Chinese
 
-- GitHub Discussions on the project repo
-- Documentation and release notes will be added as the project grows
+我是 `leilong611-ai`。
 
----
+我的背景更偏运营管理、流程设计和团队管理，不是传统程序员出身。所以我做项目时最看重的不是“演示效果”，而是：
 
-中文说明：
+- 能不能接进真实工作流
+- 能不能长期维护
+- 边界清不清楚
+- 安全和发布流程是不是足够稳
 
-我是 `leilong611-ai`，背景更偏运营管理、流程设计和团队管理，不是传统程序员出身。
-
-我现在主要在做的是把 OpenClaw 真正接进日常工作流，然后把有价值的部分整理成可复用的 skills、工具和文档。
-
-我的方向不是做一次性的 Demo，而是做能长期使用、长期维护的实际工作流。
+我当前最明确的方向，是把 `Codex` 真正接进高频沟通场景，尤其是微信这样的日常入口，再把这些能力整理成可持续维护的开源仓库。
