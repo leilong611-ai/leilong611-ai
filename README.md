@@ -1,41 +1,17 @@
-# Hi, I'm leilong611-ai
+# Will · AI 工具与真实工作流
 
-I build practical AI-agent workflows with a strong bias toward maintainability, real usage, and security boundaries.
+我从运营管理和流程设计出发，维护能在真实工作中使用、能验证、能持续改进的 AI 工具。这里记录公开项目与开源贡献；涉及个人和业务数据的工作保留在私有环境。
 
-My background is closer to operations, process design, and team management than traditional software engineering. That is exactly why I care about tools that survive real work instead of staying as one-off demos.
+## 正在推进
 
-## Current focus
+- [Weixin Codex Bridge](https://github.com/leilong611-ai/weixin-codex-bridge)：连接微信与 Codex 的独立桥接工具，重视权限边界和会话隔离。
+- AI 工具维护：复现问题、补测试、处理自动检查，并把改进整理成便于审阅的 PR。
+- 知识与数据工作流：优先核对来源、状态和隐私范围，再决定是否自动化。
 
-- Codex-based maintainer workflows
-- WeChat-to-Codex integration
-- session isolation and safer automation boundaries
-- documentation, release hygiene, and long-term OSS maintainability
+## 合作方式
 
-## Featured project
+欢迎围绕公开仓库提出具体问题或改进建议。提交前我会尽量写清触发条件、修改范围、验证结果和仍需核实的事项。
 
-- [`weixin-codex-bridge`](https://github.com/leilong611-ai/weixin-codex-bridge)
-  A standalone WeChat-to-Codex bridge with QR login, message forwarding, and per-user session isolation.
+---
 
-## What I care about
-
-- real workflow integration over demo-first projects
-- narrow tools with clear boundaries
-- maintainer automation for review, triage, and release work
-- shipping documentation and safety checks alongside code
-
-## Why this account exists
-
-I use AI agents in real work and turn the useful parts into repositories that other people can inspect, reuse, and maintain.
-
-## In Chinese
-
-我是 `leilong611-ai`。
-
-我的背景更偏运营管理、流程设计和团队管理，不是传统程序员出身。所以我做项目时最看重的不是“演示效果”，而是：
-
-- 能不能接进真实工作流
-- 能不能长期维护
-- 边界清不清楚
-- 安全和发布流程是不是足够稳
-
-我当前最明确的方向，是把 `Codex` 真正接进高频沟通场景，尤其是微信这样的日常入口，再把这些能力整理成可持续维护的开源仓库。
+I build and maintain practical AI tools from an operations and workflow-design perspective. My focus is reproducible fixes, clear access boundaries, meaningful tests, and documentation that helps others maintain the work. Public repositories show shareable code and contributions; personal and business data stay private.
